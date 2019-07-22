@@ -1,0 +1,84 @@
+/* ==========================================================================
+   FONTS
+   ========================================================================== */ 
+
+/*-------Roboto------*/
+@font-face{
+   font-family:"Roboto";
+   src: url("../fonts/roboto/Roboto-Thin.ttf")format("truetype");
+   font-weight:100;
+   font-style:thin;
+}
+
+@font-face{
+   font-family:"Roboto";
+   src: url("../fonts/roboto/Roboto-Light.ttf")format("truetype");
+   font-weight:200;
+   font-style:lighter;
+}
+
+@font-face{
+   font-family:"Roboto";
+   src: url("../fonts/roboto/Roboto-Regular.ttf")format("truetype");
+   font-weight:400;
+   font-style:normal;
+}
+
+
+@font-face{
+   font-family:"Roboto";
+   src:url("../fonts/roboto/Roboto-Medium.ttf") ;
+   font-weight:500;
+   font-style:normal;
+}
+
+@font-face{
+   font-family:"Roboto";
+   src:url("../fonts/roboto/Roboto-Bold.ttf")   ;
+   font-weight:700;
+   font-style:bold;
+}
+/*------Fin Roboto------*/
+
+/*------Brandon*------*/
+@font-face{
+   font-family:"Brandon";
+   src: url("../fonts/brandon/BrandonText-Regular.otf");
+   font-weight:400;
+   font-style:normal;
+}
+@font-face{
+   font-family:"Brandon";
+   src: url("../fonts/brandon/BrandonText-RegularItalic.otf");
+   font-weight:400;
+   font-style:italic;
+}
+@font-face{
+   font-family:"Brandon";
+   src: url("../fonts/brandon/BrandonText-Bold.otf");
+   font-weight:600;
+   font-style:bold;
+}
+@font-face{
+   font-family:"Brandon";
+   src: url("../fonts/brandon/BrandonText-BoldItalic.otf");
+   font-weight:600;
+   font-style:italic;
+}
+@font-face{
+   font-family:"Brandon";
+   src: url("../fonts/brandon/BrandonText-Black.otf");
+   font-weight:900;
+   font-style:black;
+}
+@font-face{
+   font-family:"Brandon";
+   src: url("../fonts/brandon/BrandonText-BlackItalic.otf");
+   font-weight:900;
+   font-style:italic;
+}
+/*-------Fin Brandon-------*/
+
+/* ==========================================================================
+   FIN FONTS
+   ========================================================================== */ 

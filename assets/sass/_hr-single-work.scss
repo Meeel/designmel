@@ -1,0 +1,234 @@
+/* ==========================================================================
+                            HR-SINGLE-WORKS
+========================================================================== */
+main{
+	width:100%;
+	height: auto;
+	display: block;
+	div{
+		&.grid-container-works{
+			@include breakpoint(tablet){
+				display: grid;
+    			grid-template-columns: repeat(2,50vmax);
+			}
+    		div{
+    			&.item{
+					height: 50vmax;
+    				width: 100%;
+    				position: relative;
+    				@include transition(.3s);
+                    @include flexCrosbrowsing();
+                    justify-content: center;
+    			}
+    			&.item-1{
+                    position: relative;
+                    div{
+                        &.txt-container{
+                            width:100%;
+                            height: 100%;
+                            padding:5%;
+                            max-width: 380px;
+                            margin: 0 auto;
+                            @include flexCrosbrowsing();
+                            justify-content: center;
+                            flex-direction: column;
+                            @include breakpoint(tablet){
+                                max-width: 380px;
+                                margin: 0 auto;
+                            }
+                            @include breakpoint(desktop){
+                                max-width: 450px;
+                                margin: 0 auto;
+                            }
+                            p{
+                                &.txt-up{
+                                    color:$txtContenido;
+                                    font-weight: bold;
+                                    text-align: center;
+                                    @include breakpoint(tablet){
+                                        text-align: left;
+                                    }
+                                }
+                                &.txt-general{
+                                    font-weight: 400;
+                                    color: $txtContenido;
+                                    font-size: .9em;
+                                    line-height: 1.2em;
+                                    @include breakpoint(tablet){
+                                        font-size: 1em;
+                                        line-height: 1.4em;
+                                    }
+                                    span{
+                                        color: $colorSecundario;
+                                    }
+                                }
+                            }
+                            h1{
+                                font-size: 3.2em;
+                                text-transform: uppercase;
+                                font-weight: 800;
+                                text-align: left;
+                                @include fontSecundaria();
+                                color: #000;
+                                padding: 10px 0;
+                                @include breakpoint(tablet){
+                                    font-size: 3em;
+                                }
+                                @include breakpoint(desktop){
+                                    font-size: 4.7em;
+                                }
+                                span{
+                                    color:$colorSecundario;
+                                }
+                            }
+                        }
+                    }
+                    a{
+                        &.link-back{
+                            width:70px;
+                            height: 60px;
+                            position: absolute;
+                            left:6%;
+                            top:10%;
+                            cursor: pointer;
+                            z-index:10;
+                            @include transition(.3s);
+
+                            @include breakpoint(tablet){
+                                left:10%;
+                                 top:7%;
+                            }
+                            @include breakpoint(desktop){
+                                &:hover{
+
+                                }
+                            }
+                        }
+                    }
+    			}
+                &.item-2{
+                    background-color: $colorPrincipal;
+                    button{
+                        &.btn-down{
+                            position: absolute;
+                            display: block;
+                            background-color: transparent;
+                            border:none;
+                            width: 65px;
+                            height: 65px;
+                            bottom: 20%;
+                            left:50%;
+                            margin-left: -32px;
+                            cursor: pointer;
+                            @include transition(.3s);
+                            -webkit-transform: scale(1); /* WebKit */
+                            -moz-transform: scale(1); /* Mozilla */
+                            -o-transform: scale(1); /* Opera */
+                            -ms-transform: scale(1); /* Internet Explorer */
+                            transform: scale(1); /* CSS3 */
+                            @include breakpoint(tablet){
+                                bottom: 15%;
+                                left: -3%;
+                                 margin-left: 0;
+                            }
+                            @include breakpoint(desktop){
+                                bottom: 15%;
+                                left: -5%;
+                                 margin-left: 0;
+                            }
+                            >img{
+                                &.arrow-down{
+                                    width: 100%;
+                                    height: 100%;
+                                    object-fit: cover;
+                                }
+                            }
+                            @include breakpoint(desktop){
+                                &:hover{
+                                    -webkit-transform: scale(1.2); /* WebKit */
+                                    -moz-transform: scale(1.2); /* Mozilla */
+                                    -o-transform: scale(1.2); /* Opera */
+                                    -ms-transform: scale(1.2); /* Internet Explorer */
+                                    transform: scale(1.2); /* CSS3 */
+                                }
+                            }
+                        }
+                    }
+                    img{
+                        &.img-header-works{
+                            width: 100%;
+                            height: 100%;
+                            object-fit: cover;
+                        }
+                    }
+                }
+    		}
+		}
+        &.item-fw{
+            width:100%;
+            height: auto;
+            padding: 40px 20px;
+            background-color: $colorPrincipal;
+            div{
+                display: block;
+                max-width: 700px;
+                margin: 0 auto;
+                p{
+                    color:white;
+                    font-size: 16px;
+                    line-height: 20px;
+                    text-align: center;
+                    font-style: italic;
+                    @include breakpoint(tablet){
+                        font-size: 19px;
+                        line-height: 25px;
+                    }
+                    a{
+                        color:$colorSecundario;
+                        @include breakpoint(desktop){
+                            &:hover{
+                                color:$hoverColorSecundario;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        &.item-fw-2{
+            width:100%;
+            height: auto;
+            padding: 40px 20px;
+            background-color: $colorPrincipal;
+            div{
+                &.container-fw2{
+                    max-width: 960px;
+                    margin: 0 auto;
+                    display:   block;
+                    @include flexCrosbrowsing();
+                    justify-content: center;
+                    flex-direction: column;
+                    >img{
+                        width: 100%;
+                        height: auto;
+                        margin-bottom: 100px;
+                        box-shadow: 0px 0px 23px 2px rgba(0, 0, 0, 0.6);
+                    }
+                    iframe{
+                        width: 100%;
+                        margin: 0 auto;
+                    }
+                    video{
+                        max-width: 600px;
+                        margin: 0 auto;
+                        margin-top: 20px;
+                        margin-bottom: 60px;
+                    }
+                }
+            }
+        }
+	}
+}
+
+/* ==========================================================================
+                            FIN-HR-MAIN
+========================================================================== */

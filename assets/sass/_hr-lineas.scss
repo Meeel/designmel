@@ -1,0 +1,151 @@
+/* ==========================================================================
+                            HR-LINEAS
+========================================================================== */
+div{
+	&.lines-w-container{
+		position: absolute;
+		width: 140px;
+		height: 50px;
+		left: 50%;
+		margin-left: -80px;
+		z-index: 1;
+		top: 4%;
+		overflow:hidden;
+		img{
+			&.lines-w{
+				width: 160px;
+				height: 60px;
+				position: absolute;
+				left:-100%;
+				animation-name:linesmove;
+				animation-duration:4s;
+				animation-iteration-count: infinite;
+				animation-timing-function: linear;
+			}
+			&.lines-w-2{
+				width: 160px;
+				height: 60px;
+				left:-100%;
+				position: absolute;
+				animation-name:linesmoves;
+				animation-duration:4s;
+				animation-delay: 2s;
+				animation-iteration-count: infinite;
+				animation-timing-function: linear;
+			}
+
+		}
+	}
+	&.container-lines-h{
+		width:40px;
+		height: 150px;
+		position: absolute;
+		right: 10%;
+		overflow: hidden;
+		top:38%;
+		>img{
+			/*&.lines-h{
+				stroke-width: 1px;
+          		stroke: white;
+          		stroke-dasharray: 900;
+          		stroke-dashoffset: 900;
+          		fill: transparent;
+          		animation: dash 3s linear forwards;
+				position: absolute;
+				width: 50px;
+				height: 145px;
+				animation-name:linesmoveh;
+				animation-duration:4s;
+				animation-iteration-count: infinite;
+				animation-timing-function: linear;
+			}
+
+			&.lines-h-2{
+				position: absolute;
+				width: 50px;
+				height: 145px;
+				animation-name:linesmoveh2;
+				animation-duration:4s;
+				animation-delay: 2s;
+				animation-iteration-count: infinite;
+				animation-timing-function: linear;
+			}*/
+		}
+		>svg{
+			&.lines-h{
+				stroke-width: 3px;
+          		stroke: white;
+          		stroke-dasharray: 900;
+          		stroke-dashoffset: 0;
+          		fill:transparent;
+          		animation: dash 3s linear forwards;
+          		animation-iteration-count: infinite;
+          		animation-direction: alternate;
+			}
+		}
+	}
+}
+
+@keyframes dash {
+		to {
+    	stroke-dashoffset: 900; 
+	} 
+}
+@keyframes move {
+		0%{
+        top:-100%;
+    }
+    50%{
+        top:0;
+    }
+    100%{
+        top:100%;
+    }
+}
+@keyframes linesmove{
+    0%{
+        left:-100%;
+    }
+    50%{
+        left:0;
+    }
+    100%{
+        left:100%;
+    }
+}
+@keyframes linesmoves{
+    0%{
+        left:-100%;
+    }
+    50%{
+        left:0;
+    }
+    100%{
+        left:100%;
+    }
+}
+@keyframes linesmoveh{
+    0%{
+        top:-100%;
+    }
+    50%{
+        top:0;
+    }
+    100%{
+        top:100%;
+    }
+}
+@keyframes linesmoveh2{
+    0%{
+        top:-100%;
+    }
+    50%{
+        top:0;
+    }
+    100%{
+        top:100%;
+    }
+}
+/* ==========================================================================
+                            END-HR-LINEAS
+========================================================================== */

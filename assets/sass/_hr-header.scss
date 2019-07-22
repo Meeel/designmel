@@ -1,0 +1,122 @@
+/* ==========================================================================
+                            HR-HEADER
+========================================================================== */
+header{
+	width:100px;
+	height: 80px;
+	position: fixed;
+	top: 0;
+	right: 2%;
+	@include flexCrosbrowsing();
+	align-items: center;
+	z-index:999;
+	button{
+		&.open-btn{
+			width: 60px;
+			height: 60px;
+			position: absolute;
+			right: 2%;
+			background-image: url('../images/iconos/menu.svg');
+			background-color: transparent;
+			background-size: contain;
+			background-repeat: no-repeat;
+			border:none;
+			@include transition(.3s)
+			-ms-transform: scale(1); /* IE 9 */
+    		-webkit-transform: scale(1); /* Safari */
+    		transform: scale(1);
+			@include breakpoint(desktop){
+				&:hover{
+					-ms-transform: scale(1.2); /* IE 9 */
+    				-webkit-transform: scale(1.2); /* Safari */
+    				transform: scale(1.2);
+				}
+			}
+			>img{
+				width:20px;
+				height: 20px;
+				display: block;
+				margin: 0 auto;
+			}
+		}
+	}
+	nav{
+		&.menu-principal{
+			width:100%;
+			height: 100vh;
+			background-color:$colorSecundario;
+			right: 0;
+			top:0;
+			display: none;
+			position: fixed;
+			overflow:hidden;
+			@include transition(1s)
+			button{
+				&.close-btn{
+					width: 60px;
+					height: 60px;
+					position: absolute;
+					right: 2%;
+					top:2%;
+					background-image: url('../images/iconos/menu-white.svg');
+					background-color: transparent;
+					background-size: contain;
+					background-repeat: no-repeat;
+					border:none;
+					@include transition(.3s)
+					-ms-transform: scale(1); /* IE 9 */
+					-webkit-transform: scale(1); /* Safari */
+					transform: scale(1);
+					@include breakpoint(desktop){
+						&:hover{
+							-ms-transform: scale(1.2); /* IE 9 */
+							-webkit-transform: scale(1.2); /* Safari */
+							transform: scale(1.2);
+						}
+					}
+					>img{
+						width: 20px;
+						height: 20px;
+						margin: 0 auto;
+						display: block;
+					}
+				}
+			}
+			div{
+				&.container-menu-p{
+					width: 100%;
+					height: 100vh;
+					@include flexCrosbrowsing();
+					justify-content: center;
+					align-items: center;
+					>ul{
+						text-align: center;
+						>li{
+							a{
+								&.link-menu{
+									text-decoration: none;
+									color:white;
+									cursor:pointer;
+									font-size: 3em;
+									font-weight: 600;
+									line-height: 1.4em;
+									text-transform: uppercase;
+									@include fontSecundaria();
+									@include transition(.4s);
+										&:hover{
+											color: $hoverColorSecundario;
+									}
+								}
+							}
+						}
+					}
+
+				}
+			}
+		}
+	}
+}
+
+/* ==========================================================================
+                            FIN-HR-HEADER
+========================================================================== */
