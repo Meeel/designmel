@@ -217,7 +217,7 @@
 				message = 'Completa el campo para continuar';
 				break;
 			case 'INVALIDEMAIL' : 
-				message = 'Porfavor pon un correo válido';
+				message = 'Porfavor ingresa un correo válido';
 				break;
 			// ...
 		};

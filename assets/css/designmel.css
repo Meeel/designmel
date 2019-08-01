@@ -4299,7 +4299,7 @@ HR COMPONENT CSS
   -webkit-transform: translateX(-20%);
   transform: translateX(-20%);
   pointer-events: none;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 .next:hover {
   color: rgba(0, 0, 0, 0.5); }
