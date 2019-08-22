@@ -18,22 +18,10 @@
   		gtag('config', 'UA-82742317-1');
 	</script>
 </head>
-<body>
-	<div id="preloader"><div class="lds-ripple"><div></div><div></div></div></div>
-	<header>
-		<button id="btn-open-2" class="open-btn"><img src="assets/images/iconos/menu-lines.svg" alt="Lines"></button>
-		<nav id="menu-movil" class="menu-principal">
-			<button id="btn-open-3" class="close-btn"><img src="assets/images/iconos/menu-close.svg" alt="Lines"></button>
-			<div class="container-menu-p">
-				<ul>
-					<li><a href="index.html" class="link-menu">Inicio</a></li>
-					<li><a href="work" class="link-menu">Portafolio</a></li>
-					<li><a href="contacto" class="link-menu">Contacto</a></li>
-				</ul>
-			</div>
-		</nav>
-	</header>
-	<main>
+<body class="demo-6">
+	<div id="preloader"><div id="bm"></div><!--div class="lds-ripple"><div></div><div></div></div--></div>
+	
+	<main class="main main--demo-6">
 		<div class="grid-container-works">
 			<div class="item item-1">
 				<a href="work" class="link-back"><img src="assets/images/iconos/arrow-back.svg" alt="back" class="arrow-back"></a>
@@ -71,6 +59,55 @@
 				<img src="assets/images/work/restaurante-full.jpg" alt="Restaurante">
 			</div>
 		</div>
+
+		<div class="content content--demo-6">
+				<div class="hamburger hamburger--demo-6 js-hover">
+					<div class="hamburger__line hamburger__line--01">
+						<div class="hamburger__line-in hamburger__line-in--01 hamburger__line-in--demo-5"></div>
+					</div>
+					<div class="hamburger__line hamburger__line--02">
+						<div class="hamburger__line-in hamburger__line-in--02 hamburger__line-in--demo-5"></div>
+					</div>
+					<div class="hamburger__line hamburger__line--03">
+						<div class="hamburger__line-in hamburger__line-in--03 hamburger__line-in--demo-5"></div>
+					</div>
+					<div class="hamburger__line hamburger__line--cross01">
+						<div class="hamburger__line-in hamburger__line-in--cross01 hamburger__line-in--demo-5"></div>
+					</div>
+					<div class="hamburger__line hamburger__line--cross02">
+						<div class="hamburger__line-in hamburger__line-in--cross02 hamburger__line-in--demo-5"></div>
+					</div>
+				</div>
+				<div class="global-menu">
+					<div class="global-menu__wrap">
+						<img src="assets/images/header/hero.png" alt="Flower" class="global-menu__item img-menu-global">
+						<a class="global-menu__item global-menu__item--demo-6" href="work">Proyectos</a>
+						<a class="global-menu__item global-menu__item--demo-6" href="contacto">Contacto</a>
+					</div>
+					<div class="global-menu__item socialMedia">
+						<p class="txt-menu-links"><a href="https://www.behance.net/MelissaAlmanza" target="_blank" class="link-menu-sm">Behance</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.instagram.com/designmeel/"  target="_blank" class="link-menu-sm">Instagram</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mel-almanza-8869aa50/" target="_blank" class="link-menu-sm">Linkedin</a></p>
+					</div>
+				</div>
+				<svg class="shape-overlays" viewBox="0 0 100 100" preserveAspectRatio="none">
+					<defs>
+						<linearGradient id="gradient1" x1="0%" y1="0%" x2="0%" y2="100%">
+							<stop offset="0%"   stop-color="#00c99b"/>
+							<stop offset="100%" stop-color="#ff0ea1"/>
+						</linearGradient>
+						<linearGradient id="gradient2" x1="0%" y1="0%" x2="0%" y2="100%">
+							<stop offset="0%"   stop-color="#ffd392"/>
+							<stop offset="100%" stop-color="#ff3898"/>
+						</linearGradient>
+						<linearGradient id="gradient3" x1="0%" y1="0%" x2="0%" y2="100%">
+							<stop offset="0%"   stop-color="#110046"/>
+							<stop offset="100%" stop-color="#32004a"/>
+						</linearGradient>
+					</defs>
+					<path class="shape-overlays__path"></path>
+					<path class="shape-overlays__path"></path>
+					<path class="shape-overlays__path"></path>
+				</svg>
+			</div>
 	</main>
 	<button class="scrollup"><img src="assets/images/iconos/arrow-up.svg" alt="Arrow"></button>
 	<!--Scripts-->
@@ -78,5 +115,20 @@
 	<!--script type="text/javascript" src="assets/js/jquery-3.3.1-min.js"></script-->
 	<!--script type="text/javascript" srce="assets/js/jquery-1.6.1.min.js"></script-->
 	<script type="text/javascript" src="assets/js/main.js"></script>
+	<!--Menu-->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.3/lottie.min.js"></script>
+	<script type="text/javascript">
+		
+		var animation = bodymovin.loadAnimation({
+		container: document.getElementById('bm'),
+		render: 'svg',
+		loop: true,
+		autoplay: true,
+		path: 'assets/loader/data.json'
+	})
+	</script>
+	<script src="assets/js/menu/demo.js"></script>
+	<script src="assets/js/menu/easings.js"></script>
+	<script src="assets/js/menu/demo6.js"></script>
 </body>
 </html>

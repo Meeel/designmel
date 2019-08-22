@@ -1,15 +1,6 @@
 $(document).ready(function() {
 
-            /*Menu Móvil*/
-    		 $('#btn-open-2').click(function(){
-                $('#menu-movil').removeClass('animated fadeOutDown delay-menu');
-                $('#menu-movil').addClass('animated fadeInUp delay-menu');
-                $('#menu-movil').show();
-            });
-            $('#btn-open-3').click(function(){
-                    $('#menu-movil').removeClass('animated fadeInUp delay-menu');
-                    $('#menu-movil').addClass('animated fadeOutDown delay-menu');
-            });
+            
             /*-----------Desktop-----------*/
             // Btn up
             $(window).scroll(function(){

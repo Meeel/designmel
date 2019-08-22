@@ -721,6 +721,39 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/assets/js/menu/demo.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/js/menu/demo-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/assets/js/menu/demo6.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/js/menu/demo6-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/assets/js/menu/easings.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/assets/js/menu/easings-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/assets/js/plugin-demo/anime.min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -753,6 +786,67 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/assets/loader/data.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/assets/loader/data-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/assets/loader/images/img_0.png": {
+		"ft": 32768,
+		"iS": 1156,
+		"oA": 0,
+		"oAP": "/assets/loader/images/img_0.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/loader/images/img_1.png": {
+		"ft": 32768,
+		"iS": 2217,
+		"oA": 0,
+		"oAP": "/assets/loader/images/img_1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/pater/hellosign.png": {
+		"ft": 32768,
+		"iS": 7058,
+		"oA": 0,
+		"oAP": "/assets/pater/hellosign.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/pater/pater-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/pater/pater-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/pater/pater.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/pater/pater-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/assets/php/mail.php": {
 		"cB": 0,
@@ -810,6 +904,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/sass/_hr-demo-formulario.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/assets/sass/_hr-demo-menu.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/sass/_hr-demo-menu.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -954,7 +1061,7 @@
 		"oA": 0,
 		"oAP": "/assets/css/designmel.css",
 		"oF": 2,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"/assets/videos/samsung/note-8-spen.mp4": {
