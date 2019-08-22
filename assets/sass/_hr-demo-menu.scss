@@ -710,7 +710,7 @@ a.demo--current {
 	display: block;
 	position: relative;
 	cursor: pointer;
-	position: absolute;
+	position: fixed;
 	top: 2.25em;
 	right: 2.25em;
 	z-index: 110;
@@ -1044,8 +1044,11 @@ a.demo--current {
 }
 
 .img-menu-global{
-	widows: 180px;
+	width: 190px;
 	height: auto;
+	@include breakpoint(tablet){
+		width: 320px;
+	}
 
 }
 div{
@@ -1062,8 +1065,11 @@ div{
 				text-align: center;
 				text-transform: uppercase;
 				color:white;
-				font-size: 16px;
+				font-size: 15px;
 				font-weight: 900;
+				@include breakpoint(tablet){
+					font-size: 16px;
+				}
 				a{
 					&.link-menu-sm{
 						font-family: $fontBrandon;
@@ -1076,6 +1082,14 @@ div{
 					}
 				}
 			}
+		}
+	}
+}
+a{
+	&.global-menu__item{
+		font-size: 36px;
+		@include breakpoint(tablet){
+			font-size: 42px;
 		}
 	}
 }

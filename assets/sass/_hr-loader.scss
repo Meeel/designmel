@@ -57,6 +57,13 @@ div{
   }
 }
 
+#bm{
+    width: 360px;
+    @include breakpoint(tablet){
+      width: 470px;
+  }
+}
+
 
 /* ==========================================================================
                             FIN-HR-LOADER
