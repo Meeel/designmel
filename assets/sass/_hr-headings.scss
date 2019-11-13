@@ -1,0 +1,62 @@
+/* ==========================================================================
+                            HR-HEADINGS
+========================================================================== */
+.txtWhite{
+	color:white;
+}
+
+h1{
+	font-size: 5em;
+	text-transform: uppercase;
+	text-align: left;
+	font-family: $fontBrandonBold;
+	font-weight: 800;
+	color: #000;
+	padding: 10px 0;
+	@include breakpoint(tablet){
+		font-size: 4em;
+	}
+	@include breakpoint(desktop){
+		font-size: 5em;
+	}
+	span{
+		color:$colorSecundario;
+	}
+}
+
+h2{
+
+	font-size: 2em;
+	text-transform: uppercase;
+	font-weight: 800;
+	text-align: left;
+	font-family: $fontBrandonBold;
+	color: white;
+	padding: 10px 0;
+	@include breakpoint(tablet){
+		font-size: 2.7em;
+	}
+	@include breakpoint(tablet){
+		font-size: 3.2em;
+	}
+}
+
+h3{
+
+	font-size: 3em;
+	text-transform: uppercase;
+	font-weight: 800;
+	text-align: left;
+	font-family: $fontBrandonBold;
+	color: #000;
+	padding: 10px 0;
+	@include breakpoint(tablet){
+		font-size: 2.7em;
+	}
+	@include breakpoint(tablet){
+		font-size: 3.2em;
+	}
+}
+/* ==========================================================================
+                           END-HR-TEXT
+========================================================================== */

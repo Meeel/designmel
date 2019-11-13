@@ -1,0 +1,49 @@
+/* ==========================================================================
+                            HR-TEXT
+========================================================================== */
+p{
+    &.txt-up{
+        color:$txtContenido;
+        font-weight: bold;
+        text-align: center;
+        @include breakpoint(tablet){
+            text-align: left;
+        }
+    }
+    
+    &.txt-general{
+        font-weight: 400;
+        color: $txtContenido;
+        font-size: .9em;
+        line-height: 1.2em;
+        @include breakpoint(tablet){
+            font-size: 1em;
+            line-height: 1.4em;
+        }
+        >a{
+            color:$colorPrincipal;
+            @include transition(.4s);
+            &:hover{
+                color:$hoverColorPrincipal;
+            }
+        }
+    }
+    &.txt-descripcion{
+        font-size:16px;
+        line-height: 20px;
+        font-weight: 400;
+        text-align: left;
+
+    }
+    a{
+        color:$colorSecundario;
+        @include breakpoint(desktop){
+            &:hover{
+                color:$hoverColorSecundario;
+            }
+        }
+    }
+}
+/* ==========================================================================
+                            END-HR-TEXT
+========================================================================== */

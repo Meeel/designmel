@@ -52,44 +52,6 @@ main{
                                 max-width: 450px;
                                 margin: 0 auto;
                             }
-    						p{
-                                &.txt-up{
-                                    color:$txtContenido;
-                                    font-weight: bold;
-                                    text-align: center;
-                                    @include breakpoint(tablet){
-                                        text-align: left;
-                                    }
-                                }
-                                &.txt-general{
-                                    font-weight: 400;
-                                    color: $txtContenido;
-                                    font-size: .9em;
-                                    line-height: 1.2em;
-                                    @include breakpoint(tablet){
-                                        font-size: 1em;
-                                        line-height: 1.4em;
-                                    }
-                                }
-    						}
-    						h1{
-    							font-size: 5em;
-    							text-transform: uppercase;
-    							font-weight: 800;
-                                text-align: left;
-    							@include fontSecundaria();
-    							color: #000;
-    							padding: 10px 0;
-                                @include breakpoint(tablet){
-                                    font-size: 4em;
-                                }
-                                @include breakpoint(desktop){
-                                    font-size: 6em;
-                                }
-                                span{
-                                    color:$colorSecundario;
-                                }
-    						}
     					}
     				}
     			}
@@ -194,21 +156,6 @@ main{
                                     font-weight: 400;
                                     text-align: left;
 
-                                }
-                            }
-                            >h2{
-                                font-size: 2em;
-                                text-transform: uppercase;
-                                font-weight: 800;
-                                text-align: left;
-                                @include fontSecundaria();
-                                color: white;
-                                padding: 10px 0;
-                                @include breakpoint(tablet){
-                                    font-size: 2.7em;
-                                }
-                                @include breakpoint(tablet){
-                                    font-size: 3.2em;
                                 }
                             }
                         }

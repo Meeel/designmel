@@ -29,6 +29,8 @@ BREAKPOINT
 /**/
 $fontRoboto:('Roboto', Helvetica, Arial, 'sans-serif');
 $fontBrandon:('Brandon', Helvetica, Arial, 'sans-serif');
+$fontBrandonBold:('Brandon Bold', Helvetica, Arial, 'sans-serif');
+$fontRozha:('rozha_oneregular', Helvetica, Arial, 'sans-serif');
 
 @mixin fontPrincipal(){
 	font-family: $fontRoboto;

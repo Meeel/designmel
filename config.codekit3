@@ -7,7 +7,7 @@
 		"uuidString": "4748C960-FFD1-4474-ACD4-5B07682A3666"
 		}
 	],
-"creatorBuild": "31491",
+"creatorBuild": "31934",
 "files": {
 	"/.gitignore": {
 		"cB": 0,
@@ -55,101 +55,739 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/assets/fonts/brandon/BrandonText-Black.otf": {
+	"/assets/fonts/brandon/brandontext-black-demo.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-Black.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-black-demo.html",
 		"oF": 0
 		},
-	"/assets/fonts/brandon/BrandonText-BlackItalic.otf": {
+	"/assets/fonts/brandon/brandontext-black-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-BlackItalic.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-black-webfont.eot",
 		"oF": 0
 		},
-	"/assets/fonts/brandon/BrandonText-Bold.otf": {
+	"/assets/fonts/brandon/brandontext-black-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-black-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-black-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-Bold.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-black-webfont.ttf",
 		"oF": 0
 		},
-	"/assets/fonts/brandon/BrandonText-BoldItalic.otf": {
+	"/assets/fonts/brandon/brandontext-black-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-BoldItalic.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-black-webfont.woff",
 		"oF": 0
 		},
-	"/assets/fonts/brandon/BrandonText-Light.otf": {
+	"/assets/fonts/brandon/brandontext-black-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-Light.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-black-webfont.woff2",
 		"oF": 0
 		},
-	"/assets/fonts/brandon/BrandonText-LightItalic.otf": {
+	"/assets/fonts/brandon/brandontext-blackitalic-demo.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-LightItalic.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-blackitalic-demo.html",
 		"oF": 0
 		},
-	"/assets/fonts/brandon/BrandonText-Medium.otf": {
+	"/assets/fonts/brandon/brandontext-blackitalic-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-Medium.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-blackitalic-webfont.eot",
 		"oF": 0
 		},
-	"/assets/fonts/brandon/BrandonText-MediumItalic.otf": {
+	"/assets/fonts/brandon/brandontext-blackitalic-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-blackitalic-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-blackitalic-webfont.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-MediumItalic.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-blackitalic-webfont.ttf",
 		"oF": 0
 		},
-	"/assets/fonts/brandon/BrandonText-Regular.otf": {
+	"/assets/fonts/brandon/brandontext-blackitalic-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-Regular.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-blackitalic-webfont.woff",
 		"oF": 0
 		},
-	"/assets/fonts/brandon/BrandonText-RegularItalic.otf": {
+	"/assets/fonts/brandon/brandontext-blackitalic-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-RegularItalic.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-blackitalic-webfont.woff2",
 		"oF": 0
 		},
-	"/assets/fonts/brandon/BrandonText-Thin.otf": {
+	"/assets/fonts/brandon/brandontext-bold-demo.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-Thin.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-bold-demo.html",
 		"oF": 0
 		},
-	"/assets/fonts/brandon/BrandonText-ThinItalic.otf": {
+	"/assets/fonts/brandon/brandontext-bold-webfont.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/fonts/brandon/BrandonText-ThinItalic.otf",
+		"oAP": "/assets/fonts/brandon/brandontext-bold-webfont.eot",
 		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-bold-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-bold-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-bold-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-bold-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-bold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-bold-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-bold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-bold-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-bolditalic-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-bolditalic-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-bolditalic-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-bolditalic-webfont.eot",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-bolditalic-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-bolditalic-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-bolditalic-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-bolditalic-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-bolditalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-bolditalic-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-bolditalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-bolditalic-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-light-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-light-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-light-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-light-webfont.eot",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-light-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-light-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-light-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-light-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-light-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-light-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-light-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-light-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-lightitalic-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-lightitalic-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-lightitalic-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-lightitalic-webfont.eot",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-lightitalic-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-lightitalic-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-lightitalic-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-lightitalic-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-lightitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-lightitalic-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-lightitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-lightitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-medium-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-medium-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-medium-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-medium-webfont.eot",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-medium-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-medium-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-medium-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-medium-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-medium-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-medium-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-medium-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-medium-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-mediumitalic-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-mediumitalic-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-mediumitalic-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-mediumitalic-webfont.eot",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-mediumitalic-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-mediumitalic-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-mediumitalic-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-mediumitalic-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-mediumitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-mediumitalic-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-mediumitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-mediumitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-regular-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-regular-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-regular-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-regular-webfont.eot",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-regular-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-regular-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-regular-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-regular-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-regular-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-regular-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-regular-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-regularitalic-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-regularitalic-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-regularitalic-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-regularitalic-webfont.eot",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-regularitalic-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-regularitalic-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-regularitalic-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-regularitalic-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-regularitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-regularitalic-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-regularitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-regularitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-thin-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-thin-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-thin-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-thin-webfont.eot",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-thin-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-thin-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-thin-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-thin-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-thin-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-thin-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-thin-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-thin-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-thinitalic-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-thinitalic-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-thinitalic-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-thinitalic-webfont.eot",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-thinitalic-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/brandon/brandontext-thinitalic-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/brandon/brandontext-thinitalic-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-thinitalic-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-thinitalic-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-thinitalic-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/brandontext-thinitalic-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/brandontext-thinitalic-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-Black.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-Black.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-BlackItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-BlackItalic.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-Bold.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-Bold.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-BoldItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-BoldItalic.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-Light.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-Light.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-LightItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-LightItalic.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-Medium.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-Medium.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-MediumItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-MediumItalic.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-Regular.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-Regular.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-RegularItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-RegularItalic.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-Thin.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-Thin.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/font-respaldo/BrandonText-ThinItalic.otf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/font-respaldo/BrandonText-ThinItalic.otf",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/generator_config.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/generator_config.txt",
+		"oF": 0
+		},
+	"/assets/fonts/brandon/specimen_files/grid_12-825-55-15.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/specimen_files/grid_12-825-55-15-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/fonts/brandon/specimen_files/specimen_stylesheet.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/specimen_files/specimen_stylesheet-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/fonts/brandon/stylesheet.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/brandon/stylesheet-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/assets/fonts/roboto/LICENSE.txt": {
 		"cB": 0,
@@ -254,6 +892,94 @@
 		"oA": 0,
 		"oAP": "/assets/fonts/roboto/Roboto-ThinItalic.ttf",
 		"oF": 0
+		},
+	"/assets/fonts/rozha/generator_config.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/rozha/generator_config.txt",
+		"oF": 0
+		},
+	"/assets/fonts/rozha/rozhaone-regular-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/rozha/rozhaone-regular-demo.html",
+		"oF": 0
+		},
+	"/assets/fonts/rozha/rozhaone-regular-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/rozha/rozhaone-regular-webfont.eot",
+		"oF": 0
+		},
+	"/assets/fonts/rozha/rozhaone-regular-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/fonts/rozha/rozhaone-regular-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/fonts/rozha/rozhaone-regular-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/rozha/rozhaone-regular-webfont.ttf",
+		"oF": 0
+		},
+	"/assets/fonts/rozha/rozhaone-regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/rozha/rozhaone-regular-webfont.woff",
+		"oF": 0
+		},
+	"/assets/fonts/rozha/rozhaone-regular-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/rozha/rozhaone-regular-webfont.woff2",
+		"oF": 0
+		},
+	"/assets/fonts/rozha/specimen_files/grid_12-825-55-15.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/rozha/specimen_files/grid_12-825-55-15-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/fonts/rozha/specimen_files/specimen_stylesheet.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/rozha/specimen_files/specimen_stylesheet-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/fonts/rozha/stylesheet.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/fonts/rozha/stylesheet-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/assets/images/contact/bg-contact.jpg": {
 		"ft": 16384,
@@ -960,6 +1686,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/assets/sass/_hr-headings.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/sass/_hr-headings.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/assets/sass/_hr-lineas.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1038,6 +1777,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/assets/sass/_hr-text.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/sass/_hr-text.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/assets/sass/_hr-work.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -1088,36 +1840,148 @@
 		"oAP": "/assets/videos/samsung/note-8-spen.webm",
 		"oF": 0
 		},
-	"/contacto.html": {
+	"/common-files/btn-up.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/contacto.html",
+		"oAP": "/common-files/btn-up.php",
 		"oF": 0
 		},
-	"/ecommerce.html": {
+	"/common-files/library-footer.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/ecommerce.html",
+		"oAP": "/common-files/library-footer.php",
 		"oF": 0
 		},
-	"/index.html": {
+	"/common-files/library-header.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/index.html",
+		"oAP": "/common-files/library-header.php",
 		"oF": 0
 		},
-	"/ironplast.html": {
+	"/common-files/loader.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/ironplast.html",
+		"oAP": "/common-files/loader.php",
+		"oF": 0
+		},
+	"/common-files/menu.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/common-files/menu.php",
+		"oF": 0
+		},
+	"/contacto.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/contacto.php",
+		"oF": 0
+		},
+	"/ecommerce.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/ecommerce.php",
+		"oF": 0
+		},
+	"/html/contacto.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/html/contacto.html",
+		"oF": 0
+		},
+	"/html/ecommerce.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/html/ecommerce.html",
+		"oF": 0
+		},
+	"/html/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/html/index.html",
+		"oF": 0
+		},
+	"/html/ironplast.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/html/ironplast.html",
+		"oF": 0
+		},
+	"/html/plicare.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/html/plicare.html",
+		"oF": 0
+		},
+	"/html/restaurante.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/html/restaurante.html",
+		"oF": 0
+		},
+	"/html/samsung.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/html/samsung.html",
+		"oF": 0
+		},
+	"/html/socialmedia.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/html/socialmedia.html",
+		"oF": 0
+		},
+	"/html/work.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/html/work.html",
+		"oF": 0
+		},
+	"/index.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/index.php",
+		"oF": 0
+		},
+	"/ironplast.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/ironplast.php",
 		"oF": 0
 		},
 	"/LICENSE": {
@@ -1128,12 +1992,12 @@
 		"oAP": "/LICENSE",
 		"oF": 0
 		},
-	"/plicare.html": {
+	"/plicare.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/plicare.html",
+		"oAP": "/plicare.php",
 		"oF": 0
 		},
 	"/README.md": {
@@ -1155,36 +2019,36 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/restaurante.html": {
+	"/restaurante.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/restaurante.html",
+		"oAP": "/restaurante.php",
 		"oF": 0
 		},
-	"/samsung.html": {
+	"/samsung.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/samsung.html",
+		"oAP": "/samsung.php",
 		"oF": 0
 		},
-	"/socialmedia.html": {
+	"/socialmedia.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/socialmedia.html",
+		"oAP": "/socialmedia.php",
 		"oF": 0
 		},
-	"/work.html": {
+	"/work.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/work.html",
+		"oAP": "/work.php",
 		"oF": 0
 		}
 	},
@@ -1632,6 +2496,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -1733,6 +2598,10 @@
 			"optionString": "'all'"
 			},
 		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"default-param-last": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -2082,6 +2951,10 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -2507,6 +3380,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -3116,7 +3993,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -3256,6 +4132,9 @@
 	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
