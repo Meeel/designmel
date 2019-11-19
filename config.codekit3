@@ -1992,6 +1992,22 @@
 		"oAP": "/LICENSE",
 		"oF": 0
 		},
+	"/microservices/contactform.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/microservices/contactform.php",
+		"oF": 0
+		},
+	"/microservices/templates/contactform-email.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/microservices/templates/contactform-email.html",
+		"oF": 0
+		},
 	"/plicare.php": {
 		"cB": 0,
 		"ft": 8192,

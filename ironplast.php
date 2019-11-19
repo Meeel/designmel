@@ -19,7 +19,7 @@
 					<img src="assets/images/iconos/lines-1.svg" class="lines-w-2" alt="Lines">
 				</div>
 				<div class="txt-container">
-					<h1 class="animated fadeInLeft delay--9">IR<span>O</span>NPLAST</h1>
+					<h3 class="animated fadeInLeft delay--9">IR<span>O</span>NPLAST</h3>
 					<p class="txt-general animated fadeInLeft delay-1-4">Diseño de One Page para empresa de plásticos. Diseño en Sketch y maquetación en HMLT5 y CSS3, utilizando preprocesador SASS y GIT.</p>
 				</div>
 			</div>
@@ -40,7 +40,7 @@
 		</div>
 		<div class="item-fw">
 			<div>
-				<p>A continuación se muestra la vista final del sitio. ve la maqueta en <a href="http://designmel.com/proyectos/ironplast/index.html" target="_blank">este link</a>.</p>
+				<p class="txt-general txtCenter txtWhite">A continuación se muestra la vista final del sitio. ve la maqueta en <a href="http://designmel.com/proyectos/ironplast/index.html" target="_blank" class="linkInternas">este link</a>.</p>
 			</div>
 		</div>
 		<div class="item-fw-2">

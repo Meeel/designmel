@@ -18,7 +18,7 @@
 					<img src="assets/images/iconos/lines-1.svg" class="lines-w-2" alt="Lines">
 				</div>
 				<div class="txt-container">
-					<h1 class="animated fadeInLeft delay--9">S<span>O</span>CIAL MEDIA</h1>
+					<h3 class="animated fadeInLeft delay--9">S<span>O</span>CIAL MEDIA</h3>
 					<p class="txt-general animated fadeInLeft delay-1-4">Diseño de infografía animada. Diseñada en Ilustrator y animada en After Effects.</p>
 				</div>
 			</div>
@@ -39,14 +39,20 @@
 		</div>
 		<div class="item-fw">
 			<div>
-				<p>Este pequeño video muestra el impacto de compartir en redes sociales. La ilustración y animación fueron por mi parte, la información es externa. </p>
+				<p class="txt-general txtCenter txtWhite">Este pequeño video muestra el impacto de compartir en redes sociales. La ilustración y animación fueron por mi parte, la información es externa. </p>
 			</div>
 		</div>
 		<div class="item-fw-2">
 			<div class="container-fw2">
 				<iframe src="https://player.vimeo.com/video/223463790" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				<div class="spaceIntern"></div>
 			</div>
 		</div>
 	</main>
+	<!--Btn Up-->
+	<?php include("common-files/btn-up.php"); ?>
+	<!--End Btn Up-->
+	<!--LibraryFooter-->
+	<?php include("common-files/library-footer.php"); ?>
 </body>
 </html>

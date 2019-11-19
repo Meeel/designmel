@@ -28,26 +28,49 @@
 						<ol class="questions">
 							<li>
 								<span><label for="q1">¿Cómo te llamas?</label></span>
-								<input id="q1" name="name" type="text"/>
+								<input iid="cf-name" name="name" type="text"/>
 							</li>
 							<li>
 								<span><label for="q2">¿Cuál es tu correo?</label></span>
-								<input id="q2" name="email" type="email"/>
+								<input id="cf-email" name="email" type="email"/>
 							</li>
 							<li>
 								<span><label for="q3">¿Qué necesitas?</label></span>
-								<input id="q3" name="area" type="text" placeholder="Diseño Web, Motion graphics, solo saludar :)"/>
+								<input id="cf-message" name="area" type="text" placeholder="Diseño Web, Motion graphics, solo saludar :)"/>
 							</li>
-							<li>
+							<!--li>
 								<span><label for="q4">¿Cómo me encontraste?</label></span>
 								<input id="q4" name="encontrar" type="text" placeholder="Deep web, Linkedin, etc."/>
 							</li>
 							<li>
 								<span><label for="q5">¿Tienes algún comentario extra?</label></span>
 								<input id="q5" name="comentario" type="text"/>
-							</li>
+							</li-->
 						</ol><!-- /questions -->
 						<button class="submit" type="submit">Enviar respuestas</button>
+						<div class="cf-layer cf-blockmask">
+							<div class="spinner">
+								<div class="bounce1"></div>
+								<div class="bounce2"></div>
+								<div class="bounce3"></div>
+							</div>
+						</div>
+						<div class="cf-layer cf-successmsg">
+							<div class="msg-wrapper">
+								<h3>
+									Thank you for contacting!
+								</h3>
+								<span>We will be communicating soon</span>
+							</div>
+						</div>
+						<div class="cf-layer cf-errormsg">
+							<div class="msg-wrapper">
+								<h3>
+									There were problems ... Try again later
+								</h3>
+								<span>We ask you to reload the page or try again later.</span>
+							</div>
+						</div>
 						<div class="controls">
 							<button class="next"></button>
 							<div class="progress"></div>

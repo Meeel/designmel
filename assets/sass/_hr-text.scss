@@ -1,6 +1,7 @@
 /* ==========================================================================
                             HR-TEXT
 ========================================================================== */
+
 p{
     &.txt-up{
         color:$txtContenido;
@@ -26,6 +27,9 @@ p{
             &:hover{
                 color:$hoverColorPrincipal;
             }
+            &.linkInternas{
+                color: $colorSecundario;
+            }
         }
     }
     &.txt-descripcion{
@@ -43,6 +47,12 @@ p{
             }
         }
     }
+}
+.txtWhite{
+    color:white !important;
+}
+.txtCenter{
+    text-align:center;
 }
 /* ==========================================================================
                             END-HR-TEXT

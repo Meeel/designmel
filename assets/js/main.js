@@ -56,7 +56,7 @@ $(document).ready(function() {
 
                     // let's just simulate something...
                     var messageEl = theForm.querySelector( '.final-message' );
-                    messageEl.innerHTML = 'Gracias por escribir. <br/> <span class="contact-span-inner">Espera muy pronto mi respuesta. <a href="index.html" class="contact-back">Regresar al inicio.</a></span>';
+                    messageEl.innerHTML = 'Gracias por escribir. <br/> <span class="contact-span-inner">Espera muy pronto mi respuesta. <a href="index" class="contact-back">Regresar al inicio.</a></span>';
                     classie.addClass( messageEl, 'show' );
                 }
             } );

@@ -19,7 +19,7 @@
 					<img src="assets/images/iconos/lines-1.svg" class="lines-w-2" alt="Lines">
 				</div>
 				<div class="txt-container">
-					<h1 class="animated fadeInLeft delay--9">PL<span>I</span>CARE</h1>
+					<h3 class="animated fadeInLeft delay--9">PL<span>I</span>CARE</h3>
 					<p class="txt-general animated fadeInLeft delay-1-4">Diseño de Wireframes y Look & Feel de sitio para arquitectos. Diseñado en Ilustrator y probado en InVision. La maquetación y programación hecha por Eduardo Hernández.</p>
 				</div>
 			</div>
@@ -40,7 +40,7 @@
 		</div>
 		<div class="item-fw">
 			<div>
-				<p>Este es un gran proyecto, no solo porque pertenece a gente muy talentosa y el trabajo se hizo entre amigos, sino que el propósito del sitio además de enseñar a jóvenes las bases de softwares para arquitectos, es generar una red de profesionales en la cual se podrán apoyar. A continuación muestro una vista general de Look & Feel. Pueden visitarlo en <a href="http://plicare.mx/" target="_blank">este link.</a></p>
+				<p class="txt-general txtWhite txtCenter">Este es un gran proyecto, no solo porque pertenece a gente muy talentosa y el trabajo se hizo entre amigos, sino que el propósito del sitio además de enseñar a jóvenes las bases de softwares de arquitectos, es generar una red de profesionales en la cual se podrán apoyar. A continuación se muestra una vista general de Look & Feel. Pueden visitarlo en <a href="http://plicare.mx/" target="_blank" class="linkInternas">este link.</a></p>
 			</div>
 		</div>
 		<div class="item-fw-2">

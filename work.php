@@ -40,8 +40,8 @@
 			</div>
 			<div class="item-interna item-i-3">
 				<div class="txt-container-i3">
-					<p class="txtWhite">Diseño Web</p>
-					<h2>Mockup microecommerce</h2>
+					<p class="txtWhite">Diseño UI</p>
+					<h2>Landing Ecommerce</h2>
 					<p class="txt-descripcion txtWhite">Diseño de Look & Feel de un mockup que necesitaba una tienda en línea pequeña. Diseñado en Sketch y probado en InVision.</p>
 				</div>
 				<img src="assets/images/work/bg-pink.jpg" class="portada1" alt="BG">
@@ -55,7 +55,7 @@
 			</div>
 			<div class="item-interna item-i-3">
 				<div class="txt-container-i3">
-					<p class="txtWhite">Diseño Web</p>
+					<p class="txtWhite">Diseño UI</p>
 					<h2>Plicare</h2>
 					<p class="txt-descripcion txtWhite">Diseño de Wireframes y Look & Feel de sitio para arquitectos. Diseñado en Sketch y probado en InVision.</p>
 				</div>
@@ -102,7 +102,7 @@
 				<div class="txt-container-i3">
 					<p class="txtWhite">Diseño de Infografía</p>
 					<h2>Samsung Galaxy Note8</h2>
-					<p class="txt-descripcion txtWhite">Diseño de infografía digital. PSD e AI. Y motion graphics en After Effects.</p>
+					<p class="txt-descripcion txtWhite">Diseño de infografía digital. PSD e AI. Y Motion Graphics en After Effects.</p>
 				</div>
 				<img src="assets/images/work/bg-pink.jpg" class="portada1" alt="BG">
 			</div>

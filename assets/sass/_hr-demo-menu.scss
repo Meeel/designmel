@@ -152,7 +152,7 @@ body {
 	--path-fill-2: url(#gradient2);
 	--path-fill-3: url(#gradient3);
 	--color-title: inherit;
-	--font-family-title: 'Rozha One', serif;
+	--font-family-title: 'rozha_oneregular', serif;
 	--font-size-title: 8vmax;
 	--font-weight-title: 400;
 	--color-menu: #ffffff;
@@ -1061,7 +1061,7 @@ div{
 		bottom:0;
 		p{
 			&.txt-menu-links{
-				font-family: $fontBrandon;
+				font-family: $fontBrandonBold;
 				text-align: center;
 				text-transform: uppercase;
 				color:white;
@@ -1072,7 +1072,7 @@ div{
 				}
 				a{
 					&.link-menu-sm{
-						font-family: $fontBrandon;
+						font-family: $fontBrandonBold;
 						color: white;
 						cursor: pointer;
 						@include transition(.3s);

@@ -18,7 +18,7 @@
 					<img src="assets/images/iconos/lines-1.svg" class="lines-w-2" alt="Lines">
 				</div>
 				<div class="txt-container">
-					<h1 class="animated fadeInLeft delay--9">M<span>O</span>CKUP GOURMET</h1>
+					<h3 class="animated fadeInLeft delay--9">M<span>O</span>CKUP GOURMET</h3>
 					<p class="txt-general animated fadeInLeft delay-1-4">Diseño de Wireframes y Look & Feel para mockup de restaurante gourmet. Diseñada en Sketch y probada en InVision. Maquetado en HTML5 y CSS3. </p>
 				</div>
 			</div>
@@ -39,7 +39,7 @@
 		</div>
 		<div class="item-fw">
 			<div>
-				<p>Este mockup fue diseñado inicialmente para promocionar una plantilla que fuese adaptable y cualquier persona pudiera descargarlo y personalizarlo para su uso personal. <a href="http://www.designmel.com/proyectos/winealand/" target="_blank">Aquí puedes ver la maqueta</a>.</p>
+				<p class="txt-general txtCenter txtWhite">Este mockup fue diseñado inicialmente para promocionar una plantilla que fuese adaptable y cualquier persona pudiera descargarlo y personalizarlo para su uso personal. <a href="http://www.designmel.com/proyectos/winealand/" target="_blank" class="linkInternas">Aquí puedes ver la maqueta</a>.</p>
 			</div>
 		</div>
 		<div class="item-fw-2">

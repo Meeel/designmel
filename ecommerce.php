@@ -18,7 +18,7 @@
 					<img src="assets/images/iconos/lines-1.svg" class="lines-w-2" alt="Lines">
 				</div>
 				<div class="txt-container">
-					<h3 class="animated fadeInLeft delay--9">M<span>O</span>CKUP ECOMMERCE</h3>
+					<h3 class="animated fadeInLeft delay--9">L<span>A</span>NDING ECOMMERCE</h3>
 					<p class="txt-general animated fadeInLeft delay-1-4">Diseño de landing para venta de productos online. Herramientas utilizadas: Sketch e InVision.</p>
 				</div>
 			</div>
@@ -39,7 +39,7 @@
 		</div>
 		<div class="item-fw">
 			<div>
-				<p>A continuación se muestra la vista completa de la landing. </p>
+				<p class="txt-general txtCenter txtWhite">A continuación se muestra la vista completa de la landing. </p>
 			</div>
 		</div>
 		<div class="item-fw-2">

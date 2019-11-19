@@ -18,7 +18,7 @@
 					<img src="assets/images/iconos/lines-1.svg" class="lines-w-2" alt="Lines">
 				</div>
 				<div class="txt-container">
-					<h1 class="animated fadeInLeft delay--9">S<span>A</span>MSUNG</h1>
+					<h3 class="animated fadeInLeft delay--9">S<span>A</span>MSUNG</h3>
 					<p class="txt-general animated fadeInLeft delay-1-4">Diseño de infografía digital. PSD e AI. Y motion graphics en After Effects </p>
 				</div>
 			</div>
@@ -39,7 +39,7 @@
 		</div>
 		<div class="item-fw">
 			<div>
-				<p>Infografía diseñada para promover el lanzamiento en ese entonces de Samsung Note8. Además se hizo una pequeña animación para mostrar a los usuarios algunas de las cosas que podrían lograr con el S Pen. </p>
+				<p class="txt-general txtCenter txtWhite">Infografía diseñada para promover el lanzamiento en ese entonces de Samsung Note8. Además se hizo una pequeña animación para mostrar a los usuarios algunas de las cosas que podrían lograr con el S Pen. </p>
 			</div>
 		</div>
 		<div class="item-fw-2">
