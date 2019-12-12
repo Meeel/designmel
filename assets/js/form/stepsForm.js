@@ -157,7 +157,31 @@
 					this.removeEventListener( transEndEventName, onEndTransitionFn );
 				}
 				if( self.isFilled ) {
-					self._submit();
+					/*$('#theForm').submit();*/
+					let formulario = $('#theForm'),
+						url = formulario.attr('action');
+
+					$.ajax(url).done(function (datos) {
+							let token = datos.token,
+								informacion = {
+									token: token,
+									nombre: formulario.find('input[name="name"]').val(),
+									email: formulario.find('input[name="email"]').val(),
+									mensaje: formulario.find('input[name="area"]').val()
+								};
+
+						$.ajax({
+							url: url,
+							method: 'POST',
+							data: informacion
+						}).done(function (datos) {
+							if (datos.message === 'ok') self._submit()
+						}).fail(function (error) {
+							console.error(error)
+						})
+					}).fail(function (error) {
+						console.error(error)
+					})
 				}
 				else {
 					classie.removeClass( self.el, 'show-next' );
